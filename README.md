@@ -58,7 +58,7 @@
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-Muskan%20Ghedta-blue?style=flat-square)](https://muskan-resume.netlify.app)
+[![Resume](https://img.shields.io/badge/Resume-Muskan%20Ghedta-blue?style=flat-square)](https://muskan-resume.netlify.app/)
 
 ---
 
