@@ -50,7 +50,8 @@
 
 | Project | Description | Live Demo |
 |--------|-------------|-----------|
-| **Airbnb Clone** | Full-stack MERN web app with CRUD, filters, auth & deployment | [🌐 Live](https://major-web-dev-project.onrender.com) • [📂 GitHub](https://github.com/ghedtamuskan/major-web-dev-project) |
+| **AI Career Coach** |  AI-Powered Career Guidance Platform  | [🌐 Live](https://ai-carrer-coach-hofy5i2uu-ghedtamuskans-projects.vercel.app/) • [📂 GitHub](https://github.com/ghedtamuskan/major-web-dev-project) |
+| **Rental Marketplace** | Full-stack MERN web app with CRUD, filters, auth & deployment | [🌐 Live](https://vacation-rental-platform-chi.vercel.app/listings) • [📂 GitHub](https://github.com/ghedtamuskan/major-web-dev-project) |
 | **Todo App** | Functional React + Redux Toolkit app with task management & glassmorphism UI | [🌐 Live](https://muskantodo.netlify.app) • [📂 GitHub](https://github.com/ghedtamuskan/Todo-App) |
 | **Weather App** | React app using OpenWeatherMap API with async fetch, real-time weather data | [🌐 Live](https://ghedta-weather.netlify.app) • [📂 GitHub](https://github.com/ghedtamuskan/weather-app) |
 
